@@ -1,0 +1,5 @@
+7373, 18000.0, Mr. Doreamon
+1234, 14940.0, Ms. Shizhuka
+4321, 23400.0, Mr. Nobita
+1212, 89089.0, Mr. Gian
+1111, 77765.0, Mr. Suneo
